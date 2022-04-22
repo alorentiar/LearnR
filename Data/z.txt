@@ -1,0 +1,4 @@
+ID Name Age Phone
+23424 Ana 40 ???
+11234 Charles 12 34567678
+77654 Susanne 45 23435567

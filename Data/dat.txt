@@ -1,0 +1,5 @@
+X Y
+green 56
+blue ?
+green 100
+red -10
